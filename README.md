@@ -1,5 +1,6 @@
 # Instacart User Behavior Analysis
 
+[![Dashboard](https://img.shields.io/badge/Dashboard-Live-green)](https://instacart-churnanalysis-gas2wpq8qvqhtwuugzrk8v.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-336791?logo=postgresql&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3-F7931E?logo=scikitlearn&logoColor=white)

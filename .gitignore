@@ -1,0 +1,4 @@
+venv/
+anaconda_projects/
+*.DS_Store
+*.csv

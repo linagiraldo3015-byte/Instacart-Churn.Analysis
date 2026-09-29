@@ -7,3 +7,6 @@ order_products__prior.csv
 order_products__train.csv
 orders.csv
 products.csv
+
+# Datos crudos de Kaggle
+data/raw/

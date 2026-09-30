@@ -9,6 +9,9 @@ Análisis exploratorio y modelo predictivo de churn sobre +3 millones de pedidos
 ## Mapa de la carpeta
 | Ruta | Qué contiene | Cuándo leerlo |
 |---|---|---|
+| `ROADMAP.md` | Fases cerradas, pendientes menores y decisiones | Siempre, al empezar |
+| `SPEC.md` | Qué se construye y qué NO | Antes de cambiar algo |
+| `README.md` | Hallazgos y contexto de negocio (manda sobre el SPEC si difieren) | Para las cifras |
 | `sql/01…08_*.sql` | Pipeline en PostgreSQL, en orden: schemas → staging → analytics → análisis | Para reproducir o extender el análisis |
 | `churn_model.ipynb` | Modelo de churn (Random Forest) | Al tocar el modelo |
 | `dashboard.py` | Dashboard en Streamlit | Al tocar el dashboard |
